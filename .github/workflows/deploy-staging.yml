@@ -12,7 +12,7 @@ env:
   DOCKER_IMAGE_NAME: fresn3l-azure-ttt
   AZURE_WEBAPP_NAME: fresn3l-ttt-app
   ###############################################
-
+#adsfasdf
 jobs:
   build:
     if: contains(github.event.pull_request.labels.*.name, 'stage')
